@@ -14,8 +14,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate web and mobile Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / React Native / Nodejs / NativeScript-Vue JS (Mobile) and some other cool libraries and frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1BotUM1yKNuXr2wv5FCTecPuiKMph3cTb/view?usp=sharing",
+  resumeLink: "",
+    // "https://drive.google.com/file/d/1BotUM1yKNuXr2wv5FCTecPuiKMph3cTb/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
