@@ -14,8 +14,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate web and mobile Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / React Native / Nodejs / NativeScript-Vue JS (Mobile) and some other cool libraries and frameworks."
   ),
-  resumeLink: "",
-  // "https://drive.google.com/file/d/1BotUM1yKNuXr2wv5FCTecPuiKMph3cTb/view?usp=sharing",
+  resumeLink:
+    "https://drive.google.com/file/d/1BotUM1yKNuXr2wv5FCTecPuiKMph3cTb/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -147,8 +147,8 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Invennico",
-      companylogo: require("./assets/images/invennico.png"),
+      company: "Truelancer",
+      companylogo: require("./assets/images/true.png"),
       date: "July 2020 – Present",
       desc: "Changing lives of developers one line of code at a time.",
       descBullets: [
@@ -310,7 +310,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
     },
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -338,7 +338,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [""],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
