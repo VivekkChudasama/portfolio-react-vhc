@@ -170,10 +170,10 @@ const workExperiences = {
       ],
     },
     {
-      role: "Freelancer || Self-employed",
+      role: "Independent Consultant (Jr. Web Developer (React JS))",
       company: "Freelancer",
       companylogo: require("./assets/images/vodafoneLogo.png"),
-      date: "January 2019 – April 2019",
+      date: "January 2018 – April 2019",
       desc:
         "Providing technical support to customers, understanding the customer requirements, integrating system new module, conducting system performance testing with ERP System.I've conducted internal audit making sure the organization is compliant with the GDPR.",
     },
