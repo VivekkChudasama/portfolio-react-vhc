@@ -185,7 +185,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "drakosi99", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "vivekkchudasama", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: false, // Set false to hide this section, defaults to true
 };
@@ -352,7 +352,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "sdfsdf davidrakosi_", //Replace "twitter" with your twitter username without @
+  userName: "sdfsdf", //Replace "twitter" with your twitter username without @
   display: true, // Set true to display this section, defaults to false
 };
 
