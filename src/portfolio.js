@@ -27,10 +27,10 @@ const socialMediaLinks = {
   gmail: "chudasamavivekk0@gmail.com",
   // gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/chudasama.vivekk/",
-  // medium: "https://medium.com/@davidrakosi",
-  // stackoverflow: "https://stackoverflow.com/users/13263979/drakosi",
+  // medium: "https://medium.com/@xxxxxx",
+  // stackoverflow: "https://stackoverflow.com/users/13263979/xxxxx",
   instagram: "https://www.instagram.com/VivekkChudasama/",
-  // twitter: 'https://twitter.com/davidrakosi_',
+  // twitter: 'https://twitter.com/xxxxxx_',
   display: true, // Set true to display this section, defaults to false
 };
 
